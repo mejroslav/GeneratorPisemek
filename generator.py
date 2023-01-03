@@ -10,7 +10,8 @@ from producePDF import *
 
 def main():
     print("Generátor písemek")
-    print("Created by Miroslav Burýšek, 2021")
+    print("Created by Miroslav Burýšek")
+    input("Pro spuštění stiskněte libovolnou klávesu.")
     
     print("Načítání seznamu studentů...")
     skupiny = glob.glob("./data/*.csv")
