@@ -1,2 +1,6 @@
 __pycache__
 pdf/*
+data/seznam-ct1.csv
+data/seznam-ct2.csv
+data/seznam-pa1.csv
+data/seznam-pa2.csv
